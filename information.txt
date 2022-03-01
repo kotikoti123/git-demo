@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi  alll in ncj
+=======
+hhiiojknjn jn spanjcnj
+hi hello
+>>>>>>> 41f1c09a18a6b6e478a5a6e771402dc5eb4531d3
